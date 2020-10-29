@@ -4,7 +4,7 @@ using System.Text;
 
 namespace Csharp_Day3.Kathi
 {
-    class Greeting
+    class GreetingOne
     {
         public void sayHello()
         {
