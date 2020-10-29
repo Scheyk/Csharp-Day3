@@ -26,6 +26,9 @@ namespace Csharp_Day3
             NewClass myClass = new Samira.NewClass();
             //myClass.One();
             //myClass.Two("samira");
+            //myClass.Three("Samira", NewClass.TimeOfDay.Morning);
+            //myClass.Three("Samira", NewClass.TimeOfDay.Afternoon);
+            //myClass.Three("Samira", NewClass.TimeOfDay.Evening);
 
 
             SamiraTask tasks = new Samira.SamiraTask();
