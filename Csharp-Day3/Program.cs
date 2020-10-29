@@ -9,8 +9,8 @@ namespace Csharp_Day3
     {
         static void Main(string[] args)
         {
-            Cornel();
-            Samira();
+            //Cornel();
+            //Samira();
             Kathi();
         }
 
@@ -28,6 +28,13 @@ namespace Csharp_Day3
         static void Kathi()
         {
             KathiTasks tasks = new Kathi.KathiTasks();
+
+            //tasks.TaskOne();
+            //tasks.TaskTwo();
+            //tasks.TaskThree();
+
+            Greeting newClass = new Kathi.Greeting();
+            //newClass.sayHello();
         }
     }
 }
