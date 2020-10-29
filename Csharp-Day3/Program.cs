@@ -1,4 +1,7 @@
-﻿using System;
+﻿using Csharp_Day3.Cornel;
+using Csharp_Day3.Kathi;
+using Csharp_Day3.Samira;
+using System;
 
 namespace Csharp_Day3
 {
@@ -13,18 +16,18 @@ namespace Csharp_Day3
 
         static void Cornel()
         {
-            var tasks = new Cornel.Cornel();
+            CornelTask tasks = new Cornel.CornelTask();
            
         }
 
         static void Samira()
         {
-            var tasks = new Samira.Samira();
+            SamiraTask tasks = new Samira.SamiraTask();
         }
 
         static void Kathi()
         {
-            var tasks = new Kathi.Kathi();
+            KathiTasks tasks = new Kathi.KathiTasks();
         }
     }
 }

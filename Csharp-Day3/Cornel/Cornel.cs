@@ -4,7 +4,7 @@ using System.Text;
 
 namespace Csharp_Day3.Cornel
 {
-    class Cornel
+    class CornelTask
     {
     }
 }
