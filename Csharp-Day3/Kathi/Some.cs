@@ -4,8 +4,9 @@ using System.Text;
 
 namespace Csharp_Day3.Kathi
 {
-    class NewClass
+    class Some
     {
+        
         enum ChooseDay
         {
             Morning = 1,
@@ -24,5 +25,6 @@ namespace Csharp_Day3.Kathi
 
             Console.WriteLine($"Good {TheChoose} {name}");
         }
+        
     }
 }

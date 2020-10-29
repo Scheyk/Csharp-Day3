@@ -42,13 +42,13 @@ namespace Csharp_Day3
 
             //tasks.TaskOne();
             //tasks.TaskTwo();
-            //tasks.TaskThree();
+            tasks.TaskThree();
 
             Greeting newClass = new Kathi.Greeting();
             //newClass.sayHello();
-            newClass.theSwitch();
+            //newClass.theSwitch();
 
-            NewClass theTry = new Kathi.NewClass();
+            Some theTry = new Kathi.Some();
             //theTry.Main();
         }
     }
