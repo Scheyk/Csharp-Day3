@@ -35,6 +35,7 @@ namespace Csharp_Day3
 
             Greeting newClass = new Kathi.Greeting();
             //newClass.sayHello();
+            //newClass.theSwitch();
         }
     }
 }
