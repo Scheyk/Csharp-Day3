@@ -21,8 +21,19 @@ namespace Csharp_Day3
         }
 
         static void Samira()
+
         {
+            NewClass myClass = new Samira.NewClass();
+            //myClass.One();
+            //myClass.Two("samira");
+
+
             SamiraTask tasks = new Samira.SamiraTask();
+            //tasks.FirstTask();
+           // Console.WriteLine(tasks.SecondTask("samira", "EventManager"));
+            //tasks.SecondTask("samira","EventManager");
+            //tasks.ThirdTask("Samira","Khadem", 1983);
+
         }
 
         static void Kathi()
