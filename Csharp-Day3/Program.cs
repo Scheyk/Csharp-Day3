@@ -35,7 +35,10 @@ namespace Csharp_Day3
 
             Greeting newClass = new Kathi.Greeting();
             //newClass.sayHello();
-            //newClass.theSwitch();
+            newClass.theSwitch();
+
+            NewClass theTry = new Kathi.NewClass();
+            //theTry.Main();
         }
     }
 }

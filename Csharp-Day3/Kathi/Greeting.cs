@@ -55,7 +55,7 @@ namespace Csharp_Day3.Kathi
                     Console.WriteLine($"Hello {name}. The {timeOfday.Evening} is good to eat some staks! numnumnum");
                     break;
                 default:
-                    Console.WriteLine($"try it again. maybe you have a typo? ");
+                    Console.WriteLine($"something you did wrong...");
                     break;
             }
         }
